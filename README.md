@@ -1,6 +1,7 @@
 CUBIX Data Engineer Course Project
 
 This project is part of the CUBIX Data Engineer course. The project contains several steps/elements that guide you through data processing, analysis and visualization techniques.
+
 We will use Python 3.12.5 and Jupyter Notebook and elements of the AWS system, S3, Lambda, Athena.
 
 Project: Taxi trips at Chicago
