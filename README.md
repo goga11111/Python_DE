@@ -8,8 +8,8 @@ Project: Taxi trips at Chicago
 
 The sources of the data:
 
-  Open-Meteo - https://openweathermap.org/api
   Chicago Data Portal - https://data.cityofchicago.org/
+  Open-Meteo - https://openweathermap.org/api
   Community areas in Chicago - https://en.wikipedia.org/wiki/Community_areas_in_Chicago
 
 It retrieves taxi trip data from the Chicago Data Portal for a date two months ago, adds weather data, and performs custom transformations.
