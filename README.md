@@ -41,15 +41,25 @@ Add new payment types and companies to the main tables if they are not already p
 08_local_visualisations - Retrieve data from AWS S3 storage after transformation and display the processed data.
 
 
+
 Charts:
 
+Count of the trips/day
 
-![alt text](image1.png)
+![Count of the trips/day](image1.png)
+
+The most used company
 
 ![alt text](image2.png)
 
+Total trips per company
+
 ![alt text](image3.png)
 
+Most common pickup locations
+
 ![alt text](image4.png)
+
+Most common dropoff locations
 
 ![alt text](image5.png)
