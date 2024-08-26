@@ -44,6 +44,6 @@ Add new payment types and companies to the main tables if they are not already p
 Charts:
 
 
-![def]: image1.png
+![alt text](image1.png)
 
 ![alt text](image2.png)
